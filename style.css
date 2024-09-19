@@ -1,0 +1,61 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: rgb(42, 93, 90);
+}
+#slot1{
+ position: absolute;
+width: 636px;
+height: 110px;
+left: 381px;
+right: 423px;
+top: 22px;
+bottom: 886px;
+background-color:  rgb(49, 19, 19);
+color: white;
+text-align: center;
+font-size: 30px;
+padding: 20px;
+}
+#slot2{
+ position: absolute;
+    width: 1000px;
+    height: 638px;
+    left: 220px;
+    top: 193px;
+    box-sizing: border-box;
+    border: 10px solid rgb(255, 6, 6);
+    background-color: black;
+   margin: auto;
+    
+}
+#slot3{
+  position: absolute;
+width: 896px;
+height: 259px;
+left: 50px;
+right: 0;
+top: 50px;
+bottom: 0;
+background-color: rgb(31, 232, 183);
+margin: auto;
+ text-align: center;
+ font-size: 24px;
+ padding: 50px;
+}
+#slot4{
+    position: absolute;
+width: 896px;
+height: 259px;
+left: 55px;
+right: 0;
+top: 350px;
+bottom: -289px;
+background-color: rgb(31, 232, 183);
+ font-size: 24px;
+ padding: 70px;
+ margin: auto;
+}
